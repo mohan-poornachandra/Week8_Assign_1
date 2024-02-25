@@ -1,0 +1,1 @@
+As value of k is very very less, it might take very long for the loop to end. Hence, its time complexity is infinite.
