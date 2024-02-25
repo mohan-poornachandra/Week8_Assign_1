@@ -1,0 +1,2 @@
+The loop runs n times.
+Therefore, the time complexity is O(n).
