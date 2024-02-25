@@ -1,0 +1,2 @@
+As i is always reduced to half its value, the loop will run logn base 2 times.
+Therefore, Time complexity: O(logn)
