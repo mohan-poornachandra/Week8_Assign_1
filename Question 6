@@ -1,0 +1,2 @@
+The loop runs in the sequence: 0 , 1, 2, ....., n-1 times. 
+When summed and aproximatted, the time complexity is O(n^2).
