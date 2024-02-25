@@ -1,0 +1,1 @@
+As the value of i doubles in every iteration, it is a logarithmic time complexity of O(logn).
